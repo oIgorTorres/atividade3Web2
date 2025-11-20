@@ -16,6 +16,15 @@ XAMPP como ambiente local
 
 ---
 
+## 👩‍💻 Autor / Equipe
+
+**Nome:** *Igor Torres Dias*  
+**Instituição:** *Curso Técnico em Informática – Colégio São Lucas*  
+**Disciplina:** *Programação Websites 2*  
+**Professor:** *Jeferson Leon*  
+
+---
+
 ## 📚 Licença
 
 Este projeto foi desenvolvido para fins **educacionais**.  
